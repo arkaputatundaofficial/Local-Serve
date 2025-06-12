@@ -4,7 +4,6 @@
 
 This project is fully open-source and built for the community. Whether you want to report a bug, request a feature, or contribute code, you're welcome here!
 
----
 
 ## 📌 Before You Start
 
@@ -12,7 +11,6 @@ This project is fully open-source and built for the community. Whether you want 
 - If it’s a new idea or report, feel free to open a new issue with a clear description.
 - For major changes, it’s better to open an issue first to discuss the idea before you start coding.
 
----
 
 ## 🚀 How to Contribute
 
@@ -47,7 +45,6 @@ git push origin your-feature-name
 
 Go to your forked repo on GitHub, and click **“Compare & Pull Request”**. Please add a helpful title and description.
 
----
 
 ## 🧑‍💻 What Can You Contribute?
 
@@ -57,7 +54,6 @@ Go to your forked repo on GitHub, and click **“Compare & Pull Request”**. Pl
 * ✍️ Documentation updates
 * 🧹 UI/UX polishing
 
----
 
 ## ✅ Code Guidelines
 
@@ -66,13 +62,12 @@ Go to your forked repo on GitHub, and click **“Compare & Pull Request”**. Pl
 * Keep pull requests focused and clean.
 * Prefer using `strings.xml` for text, `colors.xml` for colors, etc.
 
----
+
 
 ## 💬 Communication
 
 You can use GitHub Issues or Discussions to ask questions, suggest ideas, or report problems.
 
----
 
 ## 🙏 Thanks!
 
