@@ -6,7 +6,6 @@
 
 This project is built to help developers, testers, and tech enthusiasts easily share and test content across devices on the same network.
 
----
 
 ## 🚀 Features (v0.1)
 - Start/stop local web server from your Android device
@@ -14,7 +13,6 @@ This project is built to help developers, testers, and tech enthusiasts easily s
 - Automatically detects and displays the current IP address
 - Simple UI for quick usage
 
----
 
 ## 🛠 Installation
 
@@ -26,24 +24,22 @@ To run this project locally:
 2. Open in Android Studio
 3. Build and run the app on a real or virtual Android device.
 
----
 ## 🤝 Contributing
 
 We welcome contributions to improve and extend LocalServe! Whether it's bug fixes, feature suggestions, code enhancements, or documentation — you're invited to help.
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
----
 
 ## 📃 License
 
 This project is licensed under the [MIT License](LICENSE).
 That means you are free to use, modify, and distribute the app—commercially or non-commercially—with proper credit.
----
+
 
 ## 📩 Contact
 
 For feedback, questions or ideas:
 
-Developer: Arka Putatunda
-GitHub Issues: [Submit here](https://github.com/YOUR_USERNAME/LocalServe/issues)
+Developer: Arka Putatunda  
+GitHub Issues: [Submit here](https://github.com/arkaputatundaofficial/Local-Serve/issues)  
 Made with ❤️ in India
