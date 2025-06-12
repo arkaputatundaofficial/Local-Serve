@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Slightly toned-down or deeper shades for night mode -->
+    <color name="material_red_500">#EF5350</color>
+    <color name="material_red_900">#7F0000</color>
+
+    <color name="material_pink_500">#F06292</color>
+    <color name="material_pink_900">#560027</color>
+
+    <color name="material_purple_500">#BA68C8</color>
+    <color name="material_purple_900">#32004F</color>
+
+    <color name="material_deep_purple_500">#9575CD</color>
+    <color name="material_deep_purple_900">#1A0033</color>
+
+    <color name="material_indigo_500">#7986CB</color>
+    <color name="material_indigo_900">#000051</color>
+
+    <color name="material_blue_500">#64B5F6</color>
+    <color name="material_blue_900">#002171</color>
+
+    <color name="material_light_blue_500">#4FC3F7</color>
+    <color name="material_light_blue_900">#001E3C</color>
+
+    <color name="material_cyan_500">#4DD0E1</color>
+    <color name="material_cyan_900">#00363A</color>
+
+    <color name="material_teal_500">#4DB6AC</color>
+    <color name="material_teal_900">#00251A</color>
+
+    <color name="material_green_500">#81C784</color>
+    <color name="material_green_900">#003300</color>
+
+    <color name="material_light_green_500">#AED581</color>
+    <color name="material_light_green_900">#264D00</color>
+
+    <color name="material_lime_500">#DCE775</color>
+    <color name="material_lime_900">#3E4D00</color>
+
+    <color name="material_yellow_500">#FFF176</color>
+    <color name="material_yellow_900">#4A3900</color>
+
+    <color name="material_amber_500">#FFD54F</color>
+    <color name="material_amber_900">#4A2700</color>
+
+    <color name="material_orange_500">#FFB74D</color>
+    <color name="material_orange_900">#4A1E00</color>
+
+    <color name="material_deep_orange_500">#FF8A65</color>
+    <color name="material_deep_orange_900">#3B0A00</color>
+
+    <color name="material_brown_500">#A1887F</color>
+    <color name="material_brown_900">#1B0000</color>
+
+    <color name="material_gray_500">#BDBDBD</color>
+    <color name="material_gray_900">#111111</color>
+
+    <color name="material_blue_gray_500">#90A4AE</color>
+    <color name="material_blue_gray_900">#0D1117</color>
+</resources>
