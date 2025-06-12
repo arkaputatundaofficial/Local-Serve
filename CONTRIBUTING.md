@@ -8,7 +8,7 @@ This project is fully open-source and built for the community. Whether you want 
 
 ## 📌 Before You Start
 
-- Check the [Issues](https://github.com/YOUR_USERNAME/LocalServe/issues) tab to see if your idea or bug is already discussed.
+- Check the [Issues](https://github.com/arkaputatundaofficial/Local-Serve/issues) tab to see if your idea or bug is already discussed.
 - If it’s a new idea or report, feel free to open a new issue with a clear description.
 - For major changes, it’s better to open an issue first to discuss the idea before you start coding.
 
@@ -21,8 +21,8 @@ Click the "Fork" button on the top right of the repo to create your own copy.
 
 ### 2. Clone the Fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/LocalServe.git
-cd LocalServe
+git clone https://github.com/arkaputatundaofficial/Local-Serve.git
+cd Local-Serve
 ````
 
 ### 3. Create a New Branch
